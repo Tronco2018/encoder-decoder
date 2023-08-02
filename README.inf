@@ -2,7 +2,7 @@ This is a simple encoder and decoder made in python.
 You don't need to download library, just python.
 
 The simples decoders and encoders files encode letter to number and number to letter,
-the char files encode and decode letters to special character.
+the char files encode and decode letters to special characters.
 
 i hope you like it.
 			
